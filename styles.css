@@ -1,0 +1,185 @@
+*{padding: 0; margin: 0; background-color: #CEC7B6;}
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300;1,500&family=Source+Sans+Pro:wght@600&display=swap');
+body{
+    height: 2000px;
+}
+.line{
+    width: 100%;
+    height: 5px;
+    opacity: 10%;
+    margin-top: 30px;
+    background-color: #000;
+}
+
+.Photo img{
+    width: 336px;
+    height: 472px;
+    border-radius: 20px;
+    margin-left: 30px;
+    margin-top: 30px;
+}
+.one{
+    display: flex;
+}
+.name h2{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+font-size: 40px;
+margin-top: 30px;
+margin-left: 30px;
+text-decoration: none;
+}
+.me p{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    opacity: 39%;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.me{
+    margin-top: 20px;
+}
+.two h3{
+    background-color: #E5D498;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 30px;
+    margin-left: 40px;
+    margin-top: 10px;
+}
+.two{
+    background-color: #E5D498;
+    border-radius: 20px;
+    width: 900px;
+    height: 350px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.two h2{
+    background-color: #E5D498;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 35px;
+}
+.two ol{
+   background-color: #E5D498;
+   text-decoration: none;
+}
+.two li{
+    background-color: #E5D498;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    opacity: 75%;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.tree{
+    background-color: #D89393;
+    border-radius: 20px;
+    width: 900px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.tree h2{
+    background-color: #D89393;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 35px;
+}
+.tree p{
+    background-color: #D89393;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    opacity: 75%;
+    text-decoration: none;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+.four{
+    background-color: #93A0BF;
+    border-radius: 20px;
+    width: 900px;
+    height: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+.four h2{
+    background-color: #93A0BF;
+    border-radius: 20px;
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    margin-left: 30px;
+    margin-top: 35px;
+}
+.four p{
+    background-color: #93A0BF;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 35px;
+    margin-left: auto;
+    text-decoration: none;
+width: 900px;
+}
+
+.row{
+    display: flex;
+}
+.four a {
+    text-decoration: none;
+    color: #0f7afc;
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(15, 122, 252, 0.2);
+    background-color: #93A0BF;
+  }
+  .four a:hover {
+    text-decoration: none;
+    color: #cf0000;
+    border-bottom-color: rgba(208, 64, 0, 0.2);
+  }
+  .four a:visited {
+    text-decoration: none;
+    color: #3f3f3f;
+    border-bottom-color: rgba(128, 0, 128, 0.2);
+  }
+
+  .two a {
+    text-decoration: none;
+    color: #0f7afc;
+    border-bottom: 1px solid;
+    border-bottom-color: rgba(15, 122, 252, 0.2);
+    background-color: #E5D498;
+  }
+  .two a:hover {
+    text-decoration: none;
+    color: #cf0000;
+    border-bottom-color: rgba(208, 64, 0, 0.2);
+  }
+  .two a:visited {
+    text-decoration: none;
+    color: #3f3f3f;
+    border-bottom-color: rgba(128, 0, 128, 0.2);
+  }
+  .sicret{
+      background-color: #CEC7B6;
+  }
